@@ -1,0 +1,13 @@
+D:\Engenharia - Material\Algoritmos e Estrutura de dados\C#\C# How to Program - 5th Edition Chapter 4\Account\Account\bin\Debug\netcoreapp3.1\Account.exe
+D:\Engenharia - Material\Algoritmos e Estrutura de dados\C#\C# How to Program - 5th Edition Chapter 4\Account\Account\bin\Debug\netcoreapp3.1\Account.deps.json
+D:\Engenharia - Material\Algoritmos e Estrutura de dados\C#\C# How to Program - 5th Edition Chapter 4\Account\Account\bin\Debug\netcoreapp3.1\Account.runtimeconfig.json
+D:\Engenharia - Material\Algoritmos e Estrutura de dados\C#\C# How to Program - 5th Edition Chapter 4\Account\Account\bin\Debug\netcoreapp3.1\Account.runtimeconfig.dev.json
+D:\Engenharia - Material\Algoritmos e Estrutura de dados\C#\C# How to Program - 5th Edition Chapter 4\Account\Account\bin\Debug\netcoreapp3.1\Account.dll
+D:\Engenharia - Material\Algoritmos e Estrutura de dados\C#\C# How to Program - 5th Edition Chapter 4\Account\Account\bin\Debug\netcoreapp3.1\Account.pdb
+D:\Engenharia - Material\Algoritmos e Estrutura de dados\C#\C# How to Program - 5th Edition Chapter 4\Account\Account\obj\Debug\netcoreapp3.1\Account.csprojAssemblyReference.cache
+D:\Engenharia - Material\Algoritmos e Estrutura de dados\C#\C# How to Program - 5th Edition Chapter 4\Account\Account\obj\Debug\netcoreapp3.1\Account.AssemblyInfoInputs.cache
+D:\Engenharia - Material\Algoritmos e Estrutura de dados\C#\C# How to Program - 5th Edition Chapter 4\Account\Account\obj\Debug\netcoreapp3.1\Account.AssemblyInfo.cs
+D:\Engenharia - Material\Algoritmos e Estrutura de dados\C#\C# How to Program - 5th Edition Chapter 4\Account\Account\obj\Debug\netcoreapp3.1\Account.csproj.CoreCompileInputs.cache
+D:\Engenharia - Material\Algoritmos e Estrutura de dados\C#\C# How to Program - 5th Edition Chapter 4\Account\Account\obj\Debug\netcoreapp3.1\Account.dll
+D:\Engenharia - Material\Algoritmos e Estrutura de dados\C#\C# How to Program - 5th Edition Chapter 4\Account\Account\obj\Debug\netcoreapp3.1\Account.pdb
+D:\Engenharia - Material\Algoritmos e Estrutura de dados\C#\C# How to Program - 5th Edition Chapter 4\Account\Account\obj\Debug\netcoreapp3.1\Account.genruntimeconfig.cache

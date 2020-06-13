@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "brObVUdSV4VXPsdXwq3bUPk9xQAkm4zBH7RLYFC8XZ+Bjw+pJwDqEq85W+RybtgITVtKQeeLQwpS5T70w1RYxw==",
+  "success": true,
+  "projectFilePath": "D:\\Engenharia - Material\\Algoritmos e Estrutura de dados\\C#\\C# How to Program - 5th Edition Chapter 4\\GradeBook\\GradeBook\\GradeBook.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Leandro\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}

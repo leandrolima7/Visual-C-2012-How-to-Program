@@ -1,0 +1,7 @@
+Method: describes the mechanism that actually perform its task 
+Class: is a unit created to house one or more methods. This methodos are designed to perform the class's tasks 
+To perform the class's tasks you have to creat an object of that class 
+variables declared in the body of a method are named: local variables
+
+
+

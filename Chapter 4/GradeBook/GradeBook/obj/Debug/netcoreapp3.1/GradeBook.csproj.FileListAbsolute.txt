@@ -1,0 +1,13 @@
+D:\Engenharia - Material\Algoritmos e Estrutura de dados\C#\C# How to Program - 5th Edition Chapter 4\GradeBook\GradeBook\bin\Debug\netcoreapp3.1\GradeBook.exe
+D:\Engenharia - Material\Algoritmos e Estrutura de dados\C#\C# How to Program - 5th Edition Chapter 4\GradeBook\GradeBook\bin\Debug\netcoreapp3.1\GradeBook.deps.json
+D:\Engenharia - Material\Algoritmos e Estrutura de dados\C#\C# How to Program - 5th Edition Chapter 4\GradeBook\GradeBook\bin\Debug\netcoreapp3.1\GradeBook.runtimeconfig.json
+D:\Engenharia - Material\Algoritmos e Estrutura de dados\C#\C# How to Program - 5th Edition Chapter 4\GradeBook\GradeBook\bin\Debug\netcoreapp3.1\GradeBook.runtimeconfig.dev.json
+D:\Engenharia - Material\Algoritmos e Estrutura de dados\C#\C# How to Program - 5th Edition Chapter 4\GradeBook\GradeBook\bin\Debug\netcoreapp3.1\GradeBook.dll
+D:\Engenharia - Material\Algoritmos e Estrutura de dados\C#\C# How to Program - 5th Edition Chapter 4\GradeBook\GradeBook\bin\Debug\netcoreapp3.1\GradeBook.pdb
+D:\Engenharia - Material\Algoritmos e Estrutura de dados\C#\C# How to Program - 5th Edition Chapter 4\GradeBook\GradeBook\obj\Debug\netcoreapp3.1\GradeBook.csprojAssemblyReference.cache
+D:\Engenharia - Material\Algoritmos e Estrutura de dados\C#\C# How to Program - 5th Edition Chapter 4\GradeBook\GradeBook\obj\Debug\netcoreapp3.1\GradeBook.AssemblyInfoInputs.cache
+D:\Engenharia - Material\Algoritmos e Estrutura de dados\C#\C# How to Program - 5th Edition Chapter 4\GradeBook\GradeBook\obj\Debug\netcoreapp3.1\GradeBook.AssemblyInfo.cs
+D:\Engenharia - Material\Algoritmos e Estrutura de dados\C#\C# How to Program - 5th Edition Chapter 4\GradeBook\GradeBook\obj\Debug\netcoreapp3.1\GradeBook.csproj.CoreCompileInputs.cache
+D:\Engenharia - Material\Algoritmos e Estrutura de dados\C#\C# How to Program - 5th Edition Chapter 4\GradeBook\GradeBook\obj\Debug\netcoreapp3.1\GradeBook.dll
+D:\Engenharia - Material\Algoritmos e Estrutura de dados\C#\C# How to Program - 5th Edition Chapter 4\GradeBook\GradeBook\obj\Debug\netcoreapp3.1\GradeBook.pdb
+D:\Engenharia - Material\Algoritmos e Estrutura de dados\C#\C# How to Program - 5th Edition Chapter 4\GradeBook\GradeBook\obj\Debug\netcoreapp3.1\GradeBook.genruntimeconfig.cache
