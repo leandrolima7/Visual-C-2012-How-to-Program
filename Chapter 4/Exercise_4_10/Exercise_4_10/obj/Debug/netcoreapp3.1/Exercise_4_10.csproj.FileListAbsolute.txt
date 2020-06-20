@@ -1,0 +1,13 @@
+C:\Users\Leandro\source\repos\Exercise_4_10\Exercise_4_10\bin\Debug\netcoreapp3.1\Exercise_4_10.exe
+C:\Users\Leandro\source\repos\Exercise_4_10\Exercise_4_10\bin\Debug\netcoreapp3.1\Exercise_4_10.deps.json
+C:\Users\Leandro\source\repos\Exercise_4_10\Exercise_4_10\bin\Debug\netcoreapp3.1\Exercise_4_10.runtimeconfig.json
+C:\Users\Leandro\source\repos\Exercise_4_10\Exercise_4_10\bin\Debug\netcoreapp3.1\Exercise_4_10.runtimeconfig.dev.json
+C:\Users\Leandro\source\repos\Exercise_4_10\Exercise_4_10\bin\Debug\netcoreapp3.1\Exercise_4_10.dll
+C:\Users\Leandro\source\repos\Exercise_4_10\Exercise_4_10\bin\Debug\netcoreapp3.1\Exercise_4_10.pdb
+C:\Users\Leandro\source\repos\Exercise_4_10\Exercise_4_10\obj\Debug\netcoreapp3.1\Exercise_4_10.csprojAssemblyReference.cache
+C:\Users\Leandro\source\repos\Exercise_4_10\Exercise_4_10\obj\Debug\netcoreapp3.1\Exercise_4_10.AssemblyInfoInputs.cache
+C:\Users\Leandro\source\repos\Exercise_4_10\Exercise_4_10\obj\Debug\netcoreapp3.1\Exercise_4_10.AssemblyInfo.cs
+C:\Users\Leandro\source\repos\Exercise_4_10\Exercise_4_10\obj\Debug\netcoreapp3.1\Exercise_4_10.csproj.CoreCompileInputs.cache
+C:\Users\Leandro\source\repos\Exercise_4_10\Exercise_4_10\obj\Debug\netcoreapp3.1\Exercise_4_10.dll
+C:\Users\Leandro\source\repos\Exercise_4_10\Exercise_4_10\obj\Debug\netcoreapp3.1\Exercise_4_10.pdb
+C:\Users\Leandro\source\repos\Exercise_4_10\Exercise_4_10\obj\Debug\netcoreapp3.1\Exercise_4_10.genruntimeconfig.cache
