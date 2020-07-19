@@ -9,7 +9,7 @@ namespace Account
     {
         static void Main(string[] args)
         {
-            Account account1 = new Account(7.33M, "Leandro"); //Creating account 1
+            Account account1 = new Account(-7.33M, "Leandro"); //Creating account 1
             Account account2 = new Account(17.13M, "Silva"); //Creating account 2
 
             Console.WriteLine("Balance of "+account1.Name +": "+ account1.Balance);

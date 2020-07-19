@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "0oAFJNovU/JQzZtbn630CCmRcG0m48QsliozR4+PUBNDBXX7gSTfTqo3T9VggBZiipIiwJdXd7Wm4Xyo9LRPVg==",
+  "success": true,
+  "projectFilePath": "D:\\Engenharia - Material\\Algoritmos e Estrutura de dados\\C#\\C# How to Program - 5th Edition\\Chapter 4\\Exercise_4_12\\Exercise_4_12\\Exercise_4_12.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Leandro\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}

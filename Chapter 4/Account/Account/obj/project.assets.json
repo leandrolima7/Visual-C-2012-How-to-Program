@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Engenharia - Material\\Algoritmos e Estrutura de dados\\C#\\C# How to Program - 5th Edition Chapter 4\\Account\\Account\\Account.csproj",
+      "projectUniqueName": "D:\\Engenharia - Material\\Algoritmos e Estrutura de dados\\C#\\C# How to Program - 5th Edition\\Chapter 4\\Account\\Account\\Account.csproj",
       "projectName": "Account",
-      "projectPath": "D:\\Engenharia - Material\\Algoritmos e Estrutura de dados\\C#\\C# How to Program - 5th Edition Chapter 4\\Account\\Account\\Account.csproj",
+      "projectPath": "D:\\Engenharia - Material\\Algoritmos e Estrutura de dados\\C#\\C# How to Program - 5th Edition\\Chapter 4\\Account\\Account\\Account.csproj",
       "packagesPath": "C:\\Users\\Leandro\\.nuget\\packages\\",
-      "outputPath": "D:\\Engenharia - Material\\Algoritmos e Estrutura de dados\\C#\\C# How to Program - 5th Edition Chapter 4\\Account\\Account\\obj\\",
+      "outputPath": "D:\\Engenharia - Material\\Algoritmos e Estrutura de dados\\C#\\C# How to Program - 5th Edition\\Chapter 4\\Account\\Account\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Leandro\\AppData\\Roaming\\NuGet\\NuGet.Config",

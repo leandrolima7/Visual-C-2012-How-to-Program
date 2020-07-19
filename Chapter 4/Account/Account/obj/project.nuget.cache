@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "tl1z5y+pb6u8cPvHVZBmiifyK/koY6j3UkZ33r8PaobivoQ7FRNpoQp4njhH/3Jw6KHPEdkAV0e2LWrGHFguLg==",
+  "dgSpecHash": "+tD4TmR3d0xg7b9cMsw3LBR8MidQ7kaZTOy/ymg9luH5dokjUrtfmKYn0ytaDzVhcFd+ZFqQW2Xp4bJbVz4IMg==",
   "success": true,
-  "projectFilePath": "D:\\Engenharia - Material\\Algoritmos e Estrutura de dados\\C#\\C# How to Program - 5th Edition Chapter 4\\Account\\Account\\Account.csproj",
+  "projectFilePath": "D:\\Engenharia - Material\\Algoritmos e Estrutura de dados\\C#\\C# How to Program - 5th Edition\\Chapter 4\\Account\\Account\\Account.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Leandro\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
   ],
