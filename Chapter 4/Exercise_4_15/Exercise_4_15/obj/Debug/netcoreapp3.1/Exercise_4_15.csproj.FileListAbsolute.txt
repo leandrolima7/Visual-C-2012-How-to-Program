@@ -1,0 +1,13 @@
+D:\Engenharia - Material\Algoritmos e Estrutura de dados\C#\C# How to Program - 5th Edition\Chapter 4\Exercise_4_15\Exercise_4_15\obj\Debug\netcoreapp3.1\Exercise_4_15.csprojAssemblyReference.cache
+D:\Engenharia - Material\Algoritmos e Estrutura de dados\C#\C# How to Program - 5th Edition\Chapter 4\Exercise_4_15\Exercise_4_15\obj\Debug\netcoreapp3.1\Exercise_4_15.AssemblyInfoInputs.cache
+D:\Engenharia - Material\Algoritmos e Estrutura de dados\C#\C# How to Program - 5th Edition\Chapter 4\Exercise_4_15\Exercise_4_15\obj\Debug\netcoreapp3.1\Exercise_4_15.AssemblyInfo.cs
+D:\Engenharia - Material\Algoritmos e Estrutura de dados\C#\C# How to Program - 5th Edition\Chapter 4\Exercise_4_15\Exercise_4_15\obj\Debug\netcoreapp3.1\Exercise_4_15.csproj.CoreCompileInputs.cache
+D:\Engenharia - Material\Algoritmos e Estrutura de dados\C#\C# How to Program - 5th Edition\Chapter 4\Exercise_4_15\Exercise_4_15\bin\Debug\netcoreapp3.1\Exercise_4_15.exe
+D:\Engenharia - Material\Algoritmos e Estrutura de dados\C#\C# How to Program - 5th Edition\Chapter 4\Exercise_4_15\Exercise_4_15\bin\Debug\netcoreapp3.1\Exercise_4_15.deps.json
+D:\Engenharia - Material\Algoritmos e Estrutura de dados\C#\C# How to Program - 5th Edition\Chapter 4\Exercise_4_15\Exercise_4_15\bin\Debug\netcoreapp3.1\Exercise_4_15.runtimeconfig.json
+D:\Engenharia - Material\Algoritmos e Estrutura de dados\C#\C# How to Program - 5th Edition\Chapter 4\Exercise_4_15\Exercise_4_15\bin\Debug\netcoreapp3.1\Exercise_4_15.runtimeconfig.dev.json
+D:\Engenharia - Material\Algoritmos e Estrutura de dados\C#\C# How to Program - 5th Edition\Chapter 4\Exercise_4_15\Exercise_4_15\bin\Debug\netcoreapp3.1\Exercise_4_15.dll
+D:\Engenharia - Material\Algoritmos e Estrutura de dados\C#\C# How to Program - 5th Edition\Chapter 4\Exercise_4_15\Exercise_4_15\bin\Debug\netcoreapp3.1\Exercise_4_15.pdb
+D:\Engenharia - Material\Algoritmos e Estrutura de dados\C#\C# How to Program - 5th Edition\Chapter 4\Exercise_4_15\Exercise_4_15\obj\Debug\netcoreapp3.1\Exercise_4_15.dll
+D:\Engenharia - Material\Algoritmos e Estrutura de dados\C#\C# How to Program - 5th Edition\Chapter 4\Exercise_4_15\Exercise_4_15\obj\Debug\netcoreapp3.1\Exercise_4_15.pdb
+D:\Engenharia - Material\Algoritmos e Estrutura de dados\C#\C# How to Program - 5th Edition\Chapter 4\Exercise_4_15\Exercise_4_15\obj\Debug\netcoreapp3.1\Exercise_4_15.genruntimeconfig.cache
