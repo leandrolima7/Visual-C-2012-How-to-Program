@@ -54,7 +54,7 @@ namespace Exercise_4_16
             Console.Clear();
 
             //Prompting for month of birth
-            Console.Write("first Month of Birth: ");
+            Console.Write("Month of Birth: ");
             month = Console.ReadLine();
 
             //Checks if the month is valid

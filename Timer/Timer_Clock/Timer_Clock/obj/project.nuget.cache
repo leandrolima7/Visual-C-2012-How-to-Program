@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "UlzYX2BsXgmNAtjPC3cM88TqhjxJu1mnMIhjp1jJpYfZiF6CZNYpM6o8KdpmfYUMEhabZXooWEgCN3A9h2FgAA==",
+  "success": true,
+  "projectFilePath": "D:\\Engenharia - Material\\Algoritmos e Estrutura de dados\\C#\\C# How to Program - 5th Edition\\Timer\\Timer_Clock\\Timer_Clock\\Timer_Clock.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Leandro\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}

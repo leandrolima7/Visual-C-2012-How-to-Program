@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Timer_Clock/1.0.0": {
+        "runtime": {
+          "Timer_Clock.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Timer_Clock/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,12 @@
+D:\Engenharia - Material\Algoritmos e Estrutura de dados\C#\C# How to Program - 5th Edition\Timer\Timer_Clock\Timer_Clock\bin\Debug\netcoreapp3.1\Timer_Clock.exe
+D:\Engenharia - Material\Algoritmos e Estrutura de dados\C#\C# How to Program - 5th Edition\Timer\Timer_Clock\Timer_Clock\bin\Debug\netcoreapp3.1\Timer_Clock.deps.json
+D:\Engenharia - Material\Algoritmos e Estrutura de dados\C#\C# How to Program - 5th Edition\Timer\Timer_Clock\Timer_Clock\bin\Debug\netcoreapp3.1\Timer_Clock.runtimeconfig.json
+D:\Engenharia - Material\Algoritmos e Estrutura de dados\C#\C# How to Program - 5th Edition\Timer\Timer_Clock\Timer_Clock\bin\Debug\netcoreapp3.1\Timer_Clock.runtimeconfig.dev.json
+D:\Engenharia - Material\Algoritmos e Estrutura de dados\C#\C# How to Program - 5th Edition\Timer\Timer_Clock\Timer_Clock\bin\Debug\netcoreapp3.1\Timer_Clock.dll
+D:\Engenharia - Material\Algoritmos e Estrutura de dados\C#\C# How to Program - 5th Edition\Timer\Timer_Clock\Timer_Clock\bin\Debug\netcoreapp3.1\Timer_Clock.pdb
+D:\Engenharia - Material\Algoritmos e Estrutura de dados\C#\C# How to Program - 5th Edition\Timer\Timer_Clock\Timer_Clock\obj\Debug\netcoreapp3.1\Timer_Clock.AssemblyInfoInputs.cache
+D:\Engenharia - Material\Algoritmos e Estrutura de dados\C#\C# How to Program - 5th Edition\Timer\Timer_Clock\Timer_Clock\obj\Debug\netcoreapp3.1\Timer_Clock.AssemblyInfo.cs
+D:\Engenharia - Material\Algoritmos e Estrutura de dados\C#\C# How to Program - 5th Edition\Timer\Timer_Clock\Timer_Clock\obj\Debug\netcoreapp3.1\Timer_Clock.csproj.CoreCompileInputs.cache
+D:\Engenharia - Material\Algoritmos e Estrutura de dados\C#\C# How to Program - 5th Edition\Timer\Timer_Clock\Timer_Clock\obj\Debug\netcoreapp3.1\Timer_Clock.dll
+D:\Engenharia - Material\Algoritmos e Estrutura de dados\C#\C# How to Program - 5th Edition\Timer\Timer_Clock\Timer_Clock\obj\Debug\netcoreapp3.1\Timer_Clock.pdb
+D:\Engenharia - Material\Algoritmos e Estrutura de dados\C#\C# How to Program - 5th Edition\Timer\Timer_Clock\Timer_Clock\obj\Debug\netcoreapp3.1\Timer_Clock.genruntimeconfig.cache

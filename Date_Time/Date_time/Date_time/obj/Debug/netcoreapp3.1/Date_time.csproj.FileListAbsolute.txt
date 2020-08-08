@@ -1,0 +1,13 @@
+D:\Engenharia - Material\Algoritmos e Estrutura de dados\C#\C# How to Program - 5th Edition\Date_Time\Date_time\Date_time\bin\Debug\netcoreapp3.1\Date_time.exe
+D:\Engenharia - Material\Algoritmos e Estrutura de dados\C#\C# How to Program - 5th Edition\Date_Time\Date_time\Date_time\bin\Debug\netcoreapp3.1\Date_time.deps.json
+D:\Engenharia - Material\Algoritmos e Estrutura de dados\C#\C# How to Program - 5th Edition\Date_Time\Date_time\Date_time\bin\Debug\netcoreapp3.1\Date_time.runtimeconfig.json
+D:\Engenharia - Material\Algoritmos e Estrutura de dados\C#\C# How to Program - 5th Edition\Date_Time\Date_time\Date_time\bin\Debug\netcoreapp3.1\Date_time.runtimeconfig.dev.json
+D:\Engenharia - Material\Algoritmos e Estrutura de dados\C#\C# How to Program - 5th Edition\Date_Time\Date_time\Date_time\bin\Debug\netcoreapp3.1\Date_time.dll
+D:\Engenharia - Material\Algoritmos e Estrutura de dados\C#\C# How to Program - 5th Edition\Date_Time\Date_time\Date_time\bin\Debug\netcoreapp3.1\Date_time.pdb
+D:\Engenharia - Material\Algoritmos e Estrutura de dados\C#\C# How to Program - 5th Edition\Date_Time\Date_time\Date_time\obj\Debug\netcoreapp3.1\Date_time.csprojAssemblyReference.cache
+D:\Engenharia - Material\Algoritmos e Estrutura de dados\C#\C# How to Program - 5th Edition\Date_Time\Date_time\Date_time\obj\Debug\netcoreapp3.1\Date_time.AssemblyInfoInputs.cache
+D:\Engenharia - Material\Algoritmos e Estrutura de dados\C#\C# How to Program - 5th Edition\Date_Time\Date_time\Date_time\obj\Debug\netcoreapp3.1\Date_time.AssemblyInfo.cs
+D:\Engenharia - Material\Algoritmos e Estrutura de dados\C#\C# How to Program - 5th Edition\Date_Time\Date_time\Date_time\obj\Debug\netcoreapp3.1\Date_time.csproj.CoreCompileInputs.cache
+D:\Engenharia - Material\Algoritmos e Estrutura de dados\C#\C# How to Program - 5th Edition\Date_Time\Date_time\Date_time\obj\Debug\netcoreapp3.1\Date_time.dll
+D:\Engenharia - Material\Algoritmos e Estrutura de dados\C#\C# How to Program - 5th Edition\Date_Time\Date_time\Date_time\obj\Debug\netcoreapp3.1\Date_time.pdb
+D:\Engenharia - Material\Algoritmos e Estrutura de dados\C#\C# How to Program - 5th Edition\Date_Time\Date_time\Date_time\obj\Debug\netcoreapp3.1\Date_time.genruntimeconfig.cache
