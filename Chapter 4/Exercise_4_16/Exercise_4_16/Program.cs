@@ -18,6 +18,15 @@ namespace Exercise_4_16
             return checkMonth;
         }
 
+        private static void BMIValues()
+        {
+            Console.WriteLine("BMI reference values");
+            Console.WriteLine("\tUnderweight: less than 18.5");
+            Console.WriteLine("\tNormal: between 18.5 and 24.9");
+            Console.WriteLine("\tOverweight: between 25 and 29.9");
+            Console.WriteLine("\tObese: 30 or greater");
+        }
+
         //Main method
         public static void Main(string[] args)
         {
@@ -148,6 +157,7 @@ namespace Exercise_4_16
             Console.WriteLine("Weight: " + person1.Weight+ " m");
             Console.WriteLine("Age: " + person1.UserAge(year));
             Console.WriteLine("BMI: " + String.Format("{0:0.00}",person1.BMI()));
+            BMIValues();
             Console.WriteLine("Maximum heart rate: " + person1.MaximumHeartRate(year));
             heartRange = person1.TargetHeartRaterange(year);
             Console.WriteLine("Target heart range" + "\n" + "\t"+ "Maximum: "+ heartRange[0]+"\n"+"\t"+"Minumim: "+ heartRange[1]);
